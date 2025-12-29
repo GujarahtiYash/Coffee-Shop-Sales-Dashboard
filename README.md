@@ -1,3 +1,4 @@
+<img width="1139" height="671" alt="Screenshot (157)" src="https://github.com/user-attachments/assets/59a5fcec-77d6-44de-97f9-16fb527702d6" />
 # Coffee-Shop-Sales-Dashboard
 Business Case This project analyzes multi-year sales data from a coffee shop chain to understand revenue trends, customer purchasing behavior, and product performance. The goal was to transform raw transaction-level data into meaningful insights that support better business decisions around sales strategy, product mix, and operational planning.
 
